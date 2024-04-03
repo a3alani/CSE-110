@@ -1,6 +1,25 @@
-# Ali Alani
+# Welcome to my CSE 110 Page
 
-**CSE 110**
+### 1) Name
+*Ali Alani*
+
+### 2) Height
+Normal: *5'10*
+
+Standing on my my money: *6'6*
+
+### 3) Major
+Computer Engineering :computer: :gear:
+
+### 4) Hobbies
+I like these activities: ⚽ 🥊 🎮 🏀 🏓 ♟️
+
+### 5) Skills
+- I mainly code in `C++` `TypeScript`
+- I can make good coffee ☕
+- I can speak **English** + **Arabic**
+
+**ok**
 
 > Hello World
 
