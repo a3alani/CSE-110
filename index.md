@@ -1,12 +1,11 @@
 # Welcome to my CSE 110 Page
 
 ### 1) Name
-*Ali Alani*
+Ali Alani
 
 ### 2) Height
 Normal: *5'10*
-
-Standing on my my money: *6'6*
+> Standing on my my money: *6'6*
 
 ### 3) Major
 Computer Engineering :computer: :gear:
@@ -19,9 +18,15 @@ I like these activities: ⚽ 🥊 🎮 🏀 🏓 ♟️
 - I can make good coffee ☕
 - I can speak **English** + **Arabic**
 
-**ok**
+### 6) Bucket List before graduation
+- [ ] Get a job
+- [ ] touch grass
+- [ ] study abroad
+- [X] Fail a class
 
-> Hello World
+![IMG_7988](https://github.com/a3alani/CSE-110/assets/103146838/789e4cdc-1748-424c-a796-a2b1dd3a5511)
+
+
 
 use `git status` to view the status
 
