@@ -31,7 +31,7 @@ I like these activities:
 - [X] Fail a class
 
 ### 8) External Link
-check out my YT [channel](https://www.youtube.com/)
+[YouTube Link](https://www.youtube.com/watch?v=6IC23P_24v8)
 
 ### 9) Relative Link
 [relative link to readme](./README.md)
