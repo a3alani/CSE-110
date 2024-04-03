@@ -2,4 +2,4 @@
 
 Ali's User Page
 
-Fav Language is C++
+Favorite Language is C++
