@@ -1,6 +1,6 @@
 # Ali Alani
 
-** CSE 110 **
+**CSE 110**
 
 > Hello World
 
@@ -18,7 +18,7 @@ checkout my YT [channel](https://www.youtube.com/)
 
 relative link
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](CSE110/README.md)
 
 ![screenshot of my screen](https://myoctocat.com/assets/images/base-octocat.svg)
 
