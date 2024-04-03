@@ -37,7 +37,7 @@ I like these activities:
 [relative link to readme](./README.md)
 
 ### 10) Section link
-[link](#5-skills)
+[link to my height](#5-skills)
 
 ### 10) Image / Citing Sources
 Joshy to my left in the picture above
