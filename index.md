@@ -18,7 +18,7 @@ checkout my YT [channel](https://www.youtube.com/)
 
 relative link
 
-[Contribution guidelines for this project](CSE110/README.md)
+[Contribution guidelines for this project](./README.md)
 
 ![screenshot of my screen](https://myoctocat.com/assets/images/base-octocat.svg)
 
