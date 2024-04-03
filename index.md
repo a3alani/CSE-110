@@ -31,5 +31,5 @@ relative link
 3. Canada
 
 - [x] hw 1
-[] hw 3
-[] hw 5
+- [] hw 3
+- [] hw 5
