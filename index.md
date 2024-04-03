@@ -1,35 +1,46 @@
-# Ali Alani
+# Welcome to my CSE 110 Page
 
-** CSE 110 **
+### 1) Name
+Ali Alani, that's me
 
-> Hello World
+### 2) Height
+Normal: *5'10*
+> Standing on my my money: *6'6*
 
-use `git status` to view the status
+### 3) Major
+Computer Engineering 💻 ⚙️
 
-```
-git status
-git add
-git commit
-```
+### 4) Hobbies
+I like these activities: 
+1. ⚽
+2. 🥊
+3. 🎮
+4. 🏀
+5. 🏓
+6. ♟️
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+### 5) Skills
+- I mainly code in `C++` `TypeScript`
+- I can make good coffee ☕
+- I can speak **English** + **Arabic**
 
-checkout my YT [channel](https://www.youtube.com/)
+### 6) Bucket List before graduation
+- [ ] Get a job
+- [ ] touch grass
+- [ ] study abroad
+- [X] Fail a class
 
-relative link
+### 8) External Link
+[YouTube Link](https://www.youtube.com/watch?v=6IC23P_24v8)
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+### 9) Relative Link
+[relative link to readme](./README.md)
 
-![screenshot of my screen](https://myoctocat.com/assets/images/base-octocat.svg)
+### 10) Section link
+[link to the top](#1-name)
 
-- san diego
-- LA
-- San Jose
+### 10) Image / Citing Sources
+Joshy to my left in the picture above
 
-1. USA
-2. Mexico
-3. Canada
-
-- [x] hw 1
-- [] hw 3
-- [] hw 5
+That's me: 
+![IMG_7988](https://github.com/a3alani/CSE-110/assets/103146838/789e4cdc-1748-424c-a796-a2b1dd3a5511)
