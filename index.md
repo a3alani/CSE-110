@@ -18,9 +18,9 @@ checkout my YT [channel](https://www.youtube.com/)
 
 relative link
 
-[Contribution guidelines for this project](./README.md)
+[relative link to readme](./README.md)
 
-![screenshot of my screen](https://myoctocat.com/assets/images/base-octocat.svg)
+![Github Image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - san diego
 - LA
@@ -31,5 +31,5 @@ relative link
 3. Canada
 
 - [x] hw 1
-- [] hw 3
-- [] hw 5
+[] hw 3
+[] hw 5
