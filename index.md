@@ -8,7 +8,7 @@ Normal: *5'10*
 > Standing on my my money: *6'6*
 
 ### 3) Major
-Computer Engineering :computer: :gear:
+Computer Engineering 💻 ⚙️
 
 ### 4) Hobbies
 I like these activities: 
