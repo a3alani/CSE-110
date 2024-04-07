@@ -28,7 +28,8 @@ I like these activities:
 - [ ] Get a job
 - [ ] touch grass
 - [ ] study abroad
-- [X] Fail a class
+- [ ] Make an academic comeback
+- [X] Make a website
 
 ### 8) External Link
 [YouTube Link](https://www.youtube.com/watch?v=6IC23P_24v8)
